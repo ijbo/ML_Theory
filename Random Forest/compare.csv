@@ -1,0 +1,6 @@
+﻿Variables,CHAID,Entropy,Gini
+,(p-value),information gain,expected value
+Humidity,0.0942,0.1518,0.3669
+Wind,0.2733,0.0482,0.4285
+Temperature,4.066,0.9402,0.65
+Better,Low value,High value,Low value
